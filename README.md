@@ -1,3 +1,3 @@
 # my-personal-website
 
-Competitive, Hard-worker, Empathy
+Competitive, Hard-worker, Empathy.
