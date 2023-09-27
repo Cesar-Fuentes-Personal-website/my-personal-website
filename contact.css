@@ -1,0 +1,30 @@
+@media(max-width: 768px){
+    .example-class{
+        margin: 0 auto !important;
+        padding: 0 !important;
+    }
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+article{
+    border: solid red 25px;
+    border-radius: 10%;
+    margin: 1rem;
+    padding: 2rem;
+}
+form {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  label {
+    text-align: left;
+    margin: auto;
+    display: grid;
+  }
+  
+
